@@ -20,4 +20,6 @@ int main(){
     cout << endl;
     cout << "\n NIM :" << mhs.nim;
     cout << "\n nama :" << mhs.nama;
+    cout << "\n alamat :" << mhs.alamat;
+    cout << "\n umur :" << mhs.umur;
 }
