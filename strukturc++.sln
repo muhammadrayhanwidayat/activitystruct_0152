@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strukturc2", "strukturc2\st
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strukturcdengangetline", "strukturcdengangetline\strukturcdengangetline.vcxproj", "{E2E2075D-8EA4-4342-8A8C-79FC192DA16A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strukturarraydenganlooping", "strukturarraydenganlooping\strukturarraydenganlooping.vcxproj", "{D68CA66C-88FA-476D-8177-D2A21C3BC31F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{E2E2075D-8EA4-4342-8A8C-79FC192DA16A}.Release|x64.Build.0 = Release|x64
 		{E2E2075D-8EA4-4342-8A8C-79FC192DA16A}.Release|x86.ActiveCfg = Release|Win32
 		{E2E2075D-8EA4-4342-8A8C-79FC192DA16A}.Release|x86.Build.0 = Release|Win32
+		{D68CA66C-88FA-476D-8177-D2A21C3BC31F}.Debug|x64.ActiveCfg = Debug|x64
+		{D68CA66C-88FA-476D-8177-D2A21C3BC31F}.Debug|x64.Build.0 = Debug|x64
+		{D68CA66C-88FA-476D-8177-D2A21C3BC31F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D68CA66C-88FA-476D-8177-D2A21C3BC31F}.Debug|x86.Build.0 = Debug|Win32
+		{D68CA66C-88FA-476D-8177-D2A21C3BC31F}.Release|x64.ActiveCfg = Release|x64
+		{D68CA66C-88FA-476D-8177-D2A21C3BC31F}.Release|x64.Build.0 = Release|x64
+		{D68CA66C-88FA-476D-8177-D2A21C3BC31F}.Release|x86.ActiveCfg = Release|Win32
+		{D68CA66C-88FA-476D-8177-D2A21C3BC31F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
