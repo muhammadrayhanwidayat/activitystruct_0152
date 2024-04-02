@@ -8,16 +8,10 @@ struct Mahasiswa {
     int umur;
 };
 
-
-
-
-
-
-
-
-int main()
-{
-    
+int main(){
+    Mahasiswa mhs;
+    cout << "nomor mahasiswa:";
+    cin >> mhs.nim;
 }
 
 
